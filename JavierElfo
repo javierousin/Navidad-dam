@@ -1,0 +1,8 @@
+package polonorte.elfos;
+
+public class JaviTorres extends ElfoGenerico {
+
+	public JaviTorres() {
+		super("Diegu", SeccionLaboralElfo.DISFRACES);
+	}
+}
